@@ -15,5 +15,4 @@ function johnLennonFacts(facts) {
     i++
   }
   return array 
-  console.log(array)
 }
